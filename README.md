@@ -1,2 +1,3 @@
 # ArewaDataScience
-30 Days of python exercises
+This Repo is now Called Resources is meant for practice and Trial and error
+
